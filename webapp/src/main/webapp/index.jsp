@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Geethika Technologies </h1>
+<h1> Hello, Welcome to Murali Technologies </h1>
 
