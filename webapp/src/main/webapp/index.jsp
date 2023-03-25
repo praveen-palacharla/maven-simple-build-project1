@@ -1,2 +1,2 @@
-<h1> Welcome to Sri Lakshmi Srinivasa Nilayam </h1>
+<h1> Welcome back to home </h1>
 
