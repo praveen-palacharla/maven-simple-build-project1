@@ -1,2 +1,2 @@
-<h1> Welcome to Praveen web page </h1>
+<h1> Welcome to Praveen Technologies </h1>
 
