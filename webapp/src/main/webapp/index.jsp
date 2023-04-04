@@ -1,2 +1,2 @@
-<h1> welcome to ttd devastanams by praveen </h1>
+<h1> welcome to praveen technologies</h1>
 
